@@ -1,0 +1,11 @@
+numpy
+torch >= 1.4.0
+sympy == 1.4
+pandas
+scipy
+scikit-learn
+sortedcontainers
+matplotlib
+jupyter
+jupyterlab
+

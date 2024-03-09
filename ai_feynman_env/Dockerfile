@@ -30,4 +30,3 @@ RUN git clone https://github.com/SJ001/AI-Feynman.git \
     && chmod +777 AI-Feynman/Code/* \
     && cd AI-Feynman/Code/ && ./compile.sh \
     && apt-get autoremove -y
-
